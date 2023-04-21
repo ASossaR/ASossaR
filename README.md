@@ -1,12 +1,9 @@
-<div id= "header" aling="center">
-  <h1 aling="center"> Hi there, I'm Álvaro 👋 </h1>
-  <img src= "https://media.giphy.com/media/ZkVIzvAEUA4ISI6WpO/giphy.gif" width="200" />
-  <h2 aling="center">  I'm a passionate self-taught electronics engineer from Costa Rica 🇨🇷
-  
-  I like to take on new challenges and learn along the way.
-
+<div id="header" align="center">
+  <h1>Hi there, I'm Álvaro 👋</h1>
+  <img src="https://media.giphy.com/media/ZkVIzvAEUA4ISI6WpO/giphy.gif" width="200" />
+  <h2>I'm a passionate self-taught electronics engineer from Costa Rica 🇨🇷
+       I like to take on new challenges and learn along the way.
   </h2>
-  
 </div>
 
 ---
